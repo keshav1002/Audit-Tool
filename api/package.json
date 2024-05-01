@@ -16,7 +16,7 @@
   "dependencies": {
     "gem": "^2.4.3",
     "inversify": "^5.0.1",
-    "lambda-api": "^0.10.4",
+    "lambda-api": "^0.12.0",
     "mysql": "^2.17.1",
     "reflect-metadata": "^0.1.13",
     "source-map-support": "^0.5.10",
